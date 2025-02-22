@@ -1,0 +1,19 @@
+name: secondary_index_list_for_amplify
+description: "GraphQL query with sorting by field with secondary index for AWS Amplify Flutter"
+version: 0.1.0
+repository: https://github.com/MarlonJD/secondary_index_list_for_amplify
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  amplify_core: ^2.6.0
+  collection: ^1.19.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
