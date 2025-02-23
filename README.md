@@ -9,7 +9,7 @@ This package is designed to manage secondary index lists for [Amplify Flutter](h
 Add the package to your Pubspec.yaml file:
 ```yaml
 dependencies:
-  secondary_index_list: ^0.1.0
+  secondary_index_list_for_amplify: ^0.1.0
 ```
 
 ## Usage
